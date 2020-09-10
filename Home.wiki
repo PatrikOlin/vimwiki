@@ -1,1 +1,4 @@
-Här ska det bli fett med wiki.
+= Alternativ till zettelkasten? =
+== dev ==
+    * [[BLAPP]] - Sköna BLAPP-resurser
+    * [[Scratchpad]] - tillfälliga grejer som bör fortsätta vara tillfälliga
