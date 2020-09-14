@@ -1,0 +1,21 @@
+##AppImage
+
+Skapa en fil i: 
+
+```$HOME/.local/share/applications/AppNameHere.desktop```
+
+med detta innehåll:
+
+```bash
+[Desktop Entry]
+Type=Application
+Name=AppName
+Comment=AppName
+Icon=/home/supa/.images/rpcs3.png
+Exec=/home/supa/AppImages/rpcs3.AppImage
+Terminal=false
+Categories=Games
+```
+
+
+
