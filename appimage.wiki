@@ -1,4 +1,4 @@
-# AppImage
+= AppImage =
 
 Skapa en fil i: 
 
