@@ -1,0 +1,13 @@
+# Alternativ till zettelkasten? #
+
+
+## dev ##
+    * [fejk](fejk) - Sköna fejkresurser och todos
+    * [BLAPP](blapp) - Sköna BLAPP-resurser
+    * [scratchpad](scratchpad.wiki) - tillfälliga grejer som bör fortsätta vara tillfälliga
+    * [datakällor](datasources.wiki) - lista över sköna datakällor
+
+
+## unix ##
+    * [dotfiles](dotfiles.wiki) - Skön dotfilshantering
+    * [appimage](appimage.wiki) - appimage som "vanlig" applikation
