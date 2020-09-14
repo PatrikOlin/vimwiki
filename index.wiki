@@ -2,12 +2,12 @@
 
 
 ## dev ##
-    * [fejk](fejk) - Sköna fejkresurser och todos
-    * [BLAPP](blapp) - Sköna BLAPP-resurser
-    * [scratchpad](scratchpad.wiki) - tillfälliga grejer som bör fortsätta vara tillfälliga
-    * [datakällor](datasources.wiki) - lista över sköna datakällor
+    * [[fejk]] - Sköna fejkresurser och todos
+    * [[blapp]] - Sköna BLAPP-resurser
+    * [[scratchpad]] - tillfälliga grejer som bör fortsätta vara tillfälliga
+    * [[datasources]] - lista över sköna datakällor
 
 
 ## unix ##
-    * [dotfiles](dotfiles.wiki) - Skön dotfilshantering
-    * [appimage](appimage.wiki) - appimage som "vanlig" applikation
+    * [[dotfiles]] - Skön dotfilshantering
+    * [[appimage]] - appimage som "vanlig" applikation
