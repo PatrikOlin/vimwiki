@@ -2,6 +2,7 @@
 
 
 ## dev ##
-    * [Fejk](fejk.md) - Sköna fejkresurser och todos
+    * [fejk](fejk.md) - Sköna fejkresurser och todos
     * [BLAPP](blapp.md) - Sköna BLAPP-resurser
-    * [[Scratchpad]] - tillfälliga grejer som bör fortsätta vara tillfälliga
+    * [dotfiles](dotfiles.md) - Skön dotfilshantering
+    * [scratchpad](scratchpad.md) - tillfälliga grejer som bör fortsätta vara tillfälliga

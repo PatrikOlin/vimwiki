@@ -1,0 +1,3 @@
+# scratchpad
+
+här finns det lite sköna temporära snabba och förhoppningsvis kortlivade anteckningar
