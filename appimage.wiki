@@ -2,11 +2,13 @@
 
 Skapa en fil i: 
 
-```$HOME/.local/share/applications/AppNameHere.desktop```
+{{{class = "brush = sh"
+$HOME/.local/share/applications/AppNameHere.desktop
+}}}
 
 med detta innehåll:
 
-```bash
+{{{class = "brush = sh"
 [Desktop Entry]
 Type=Application
 Name=AppName
@@ -15,7 +17,7 @@ Icon=/home/supa/.images/rpcs3.png
 Exec=/home/supa/AppImages/rpcs3.AppImage
 Terminal=false
 Categories=Games
-```
+}}}
 
 
 

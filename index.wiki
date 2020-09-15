@@ -1,10 +1,10 @@
 =  olin.wiki  =
 
+[[scratchpad]] - tillfälliga grejer som bör fortsätta vara tillfälliga
 
 == dev ==
     * [[fejk]] - Sköna fejkresurser och todos
     * [[blapp]] - Sköna BLAPP-resurser
-    * [[scratchpad]] - tillfälliga grejer som bör fortsätta vara tillfälliga
     * [[datasources]] - lista över sköna datakällor
     * [[links|länkar]] - lista över sköna länkar
 
