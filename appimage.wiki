@@ -2,13 +2,13 @@
 
 Skapa en fil i: 
 
-{{{class = "brush = sh"
+{{{sh
 $HOME/.local/share/applications/AppNameHere.desktop
 }}}
 
 med detta innehåll:
 
-{{{class = "brush = sh"
+{{{sh
 [Desktop Entry]
 Type=Application
 Name=AppName
