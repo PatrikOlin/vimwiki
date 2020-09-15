@@ -1,4 +1,4 @@
-= olin.wiki =
+=  olin.wiki  =
 
 
 == dev ==
@@ -6,6 +6,7 @@
     * [[blapp]] - Sköna BLAPP-resurser
     * [[scratchpad]] - tillfälliga grejer som bör fortsätta vara tillfälliga
     * [[datasources]] - lista över sköna datakällor
+    * [[links|länkar]] - lista över sköna länkar
 
 
 == unix ==
