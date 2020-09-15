@@ -1,4 +1,4 @@
-= Alternativ till zettelkasten? =
+= olin.wiki =
 
 
 == dev ==
