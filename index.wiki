@@ -1,12 +1,13 @@
 =  olin.wiki  =
 
-[[scratchpad]] - tillfälliga grejer som bör fortsätta vara tillfälliga
+[[links|länkar]] - lista över sköna länkar
 
 == dev ==
     * [[fejk]] - Sköna fejkresurser och todos
     * [[blapp]] - Sköna BLAPP-resurser
     * [[datasources]] - lista över sköna datakällor
-    * [[links|länkar]] - lista över sköna länkar
+    * === devops ===
+    * [[containerization_with_go]] - kör go-applikationer i docker
 
 
 == unix ==
