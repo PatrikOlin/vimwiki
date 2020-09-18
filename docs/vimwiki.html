@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="Stylesheet" type="text/css" href="style.css" />
+    <title>olin.wiki - vimwiki</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+    <a href="index.html">index</a> |
+    <a href="scratchpad.html">scratch</a> |
+    <a href="links.html">länkar</a> |
+    <hr>
+    <main class="content">
+    
+<div id="vimwiki"><h1 id="vimwiki" class="header"><a href="#vimwiki">vimwiki</a></h1></div>
+
+<p>
+vimwiki är ett plugin för vim som låter dig skapa en wiki-liknande struktur för dina anteckningar
+</p>
+
+
+<div id="vimwiki-schyssta defaults"><h2 id="schyssta defaults" class="header"><a href="#vimwiki-schyssta defaults">schyssta defaults</a></h2></div>
+
+<pre sh>
+~/.config/nvim/init.vim // vimrc
+</pre>
+<pre sh>
+let wiki = {}
+let wiki.path = '~/vimwiki/'
+let wiki.path_html = '~/vimwiki/docs'
+let wiki.template_path = '~/vimwiki/templates'
+let wiki.template_default = 'default'
+let wiki.template_ext = '.html'
+let wiki.index = 'index'
+let wiki.ext = '.wiki'
+let wiki.nested_syntaxes = {'python': 'python', 'json': 'json', 'golang': 'go', 'js': 'js', 'sh': 'sh'}
+let g:vimwiki_list = [wiki]
+</pre>
+
+    </main>
+</body>
+</html>

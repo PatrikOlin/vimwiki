@@ -1,0 +1,23 @@
+= vimwiki =
+
+vimwiki är ett plugin för vim som låter dig skapa en wiki-liknande struktur för dina anteckningar
+
+
+== schyssta defaults ==
+
+{{{sh
+~/.config/nvim/init.vim // vimrc
+}}}
+{{{sh
+let wiki = {}
+let wiki.path = '~/vimwiki/'
+let wiki.path_html = '~/vimwiki/docs'
+let wiki.template_path = '~/vimwiki/templates'
+let wiki.template_default = 'default'
+let wiki.template_ext = '.html'
+let wiki.index = 'index'
+let wiki.ext = '.wiki'
+let wiki.nested_syntaxes = {'python': 'python', 'json': 'json', 'golang': 'go', 'js': 'js', 'sh': 'sh'}
+let g:vimwiki_list = [wiki]
+}}}
+
