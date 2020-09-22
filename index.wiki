@@ -7,8 +7,12 @@
     * [[datasources]] - lista över sköna datakällor
 
 
-== devops ===
+== devops ==
     * [[containerization_with_go]] - kör go-applikationer i docker
+
+
+== devoops ==
+    Här ska vi samla vanliga jävla feljävlar som uppstår gång på jävla gång
 
 
 == unix ==
