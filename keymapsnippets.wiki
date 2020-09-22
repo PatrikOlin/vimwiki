@@ -1,6 +1,6 @@
-== keymapsnippets ==
+= keymapsnippets =
 
-= WPM graph =
+== WPM graph ==
 
 {{{C
 /* static void render_wpm_graph(void) { */
