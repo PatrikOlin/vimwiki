@@ -1,0 +1,4 @@
+= vimmux =
+
+Plugin för att få konesekventa keybindings i tmux och vim
+https://github.com/christoomey/vim-tmux-navigator

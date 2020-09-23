@@ -22,6 +22,7 @@
 
 == produktivitet ==
     * [[vimwiki]] - schyssta defaults för vimwiki
+    * [[vimmux]] - vim? tmux? sköna grejer i alla fall
 
 
 == qmk ==
