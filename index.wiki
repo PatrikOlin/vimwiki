@@ -5,6 +5,7 @@
     * [[fejk]] - Sköna fejkresurser och todos
     * [[blapp]] - Sköna BLAPP-resurser
     * [[datasources]] - lista över sköna datakällor
+    * [[devfredag]] - sköna devfredagsuppslag
 
 
 == devops ==

@@ -1,0 +1,4 @@
+== devfredag ==
+
+Bygga ett KMS liknande Memex
+https://www.steveliu.co/memex
