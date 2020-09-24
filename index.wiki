@@ -27,3 +27,6 @@
 
 == qmk ==
     * [[keymapsnippets]] - sköna keymap-snippets
+
+== löst ==
+    * [[links]] - länkar

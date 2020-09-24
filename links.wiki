@@ -1,2 +1,4 @@
 == sköna länkar ==
 
+Intressant kms (knowledge management system) att bygga vidare på?
+https://www.steveliu.co/memex
