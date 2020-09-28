@@ -1,4 +1,9 @@
-== devfredag ==
+= devfredag =
 
+== kms ==
 Bygga ett KMS liknande Memex
 https://www.steveliu.co/memex
+
+== sse ==
+Labba med server sent events och bygga en liten server sent events server med tillhörande frontend som konsument
+https://dev.to/mirzaakhena/server-sent-events-sse-server-implementation-with-go-4ck2
