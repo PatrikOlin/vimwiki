@@ -4,6 +4,9 @@
 Bygga ett KMS liknande Memex
 https://www.steveliu.co/memex
 
-== sse ==
-Labba med server sent events och bygga en liten server sent events server med tillhörande frontend som konsument
+== sse / long pollin ==
+Labba med server sent events och long polling och bygga en liten sse-server med tillhörande frontend som konsument
 https://dev.to/mirzaakhena/server-sent-events-sse-server-implementation-with-go-4ck2
+
+lika bra att testa en long polling-server också då 
+https://lucasroesler.com/2018/07/golang-long-polling-a-tale-of-server-timeouts/
