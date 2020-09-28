@@ -1,0 +1,5 @@
+= todos =
+
+== devutils ==
+Bygga ett samlat CLI för lite olika sköna devutils. Kan inkludera bland annat json-prettifyer-scriptet, 
+fejk-generate, en json-validator, en base64 encode/decode, unix time converter

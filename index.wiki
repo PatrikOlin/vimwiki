@@ -6,6 +6,7 @@
     * [[blapp]] - Sköna BLAPP-resurser
     * [[datasources]] - lista över sköna datakällor
     * [[devfredag]] - sköna devfredagsuppslag
+    * [[todos]] - sköna(?) todos
 
 
 == devops ==
@@ -28,6 +29,7 @@
 
 == qmk ==
     * [[keymapsnippets]] - sköna keymap-snippets
+
 
 == löst ==
     * [[links]] - länkar
